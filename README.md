@@ -4,4 +4,5 @@ HOME
 
 TampilData
 
-![Uploading image.png…]()
+<img width="500" height="842" alt="image" src="https://github.com/user-attachments/assets/86265743-b0cc-47d2-834c-61a164d56cb9" />
+
