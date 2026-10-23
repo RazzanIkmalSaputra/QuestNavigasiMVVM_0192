@@ -1,5 +1,6 @@
 package com.example.pertemuan6.view
 
+import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
@@ -28,4 +29,11 @@ fun TampilData(
                 )
             )
         }
-    ) {
+    ) { isiRuang ->
+        Column(
+            modifier = Modifier.padding(isiRuang),
+            verticalArrangement = Arrangement.SpaceBetween
+        ) {
+        }
+    }
+}
